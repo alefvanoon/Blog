@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Blog
 author: alefvanoon
-description: Minimal, responsive Jekyll theme for hackers.
+description: Alefvanoon Blog.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.alefvanoon.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 lang: fa
