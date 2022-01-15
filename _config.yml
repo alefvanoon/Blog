@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: whiteglass theme
-author: Yous
+author: alefvanoon
 description: Minimal, responsive Jekyll theme for hackers.
-baseurl: "/whiteglass" # the subpath of your site, e.g. /blog
-url: "https://yous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-lang: en
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://blog.alefvanoon.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+lang: fa
 timezone: UTC
 exclude:
   - Gemfile
